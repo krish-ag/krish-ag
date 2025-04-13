@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Self-taught developer passionate about building real-world tech solutions.<br>💻 Currently working on CruiseMate, an aftermarket cruise control system for cars.<br>🚀 Love working with IOT, FullStack, and AI/ML projects.<br>🔧 I enjoy solving hardware + software problems with a DIY approach.<br>📚 Always learning and sharing knowledge through open-source and collaboration.
+🌱 Self-taught developer passionate about building real-world tech solutions.<br>💻 Currently working on CruiseMate, an aftermarket cruise control system for any car.<br>🚀 Love working with IOT, FullStack, and AI/ML projects.<br>🔧 I enjoy solving hardware + software problems with a DIY approach.<br>📚 Always learning and sharing knowledge through open-source and collaboration.
 
 
 ## 🌐 Socials:
